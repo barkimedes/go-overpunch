@@ -1,6 +1,9 @@
 language: go
+
 notificaitons:
   email:
     recipients: barkimedes+github@gmail.com
     on_success: change
     on_failure: always
+
+go_import_path: github.com/barkimedes/overpunch
